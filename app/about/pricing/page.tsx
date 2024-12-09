@@ -1,5 +1,4 @@
 import Image from 'next/image';
-import img1 from "@/assets/row (3).png"
 import { ChevronRight } from 'lucide-react';
 import { StaticImageData } from "next/image";
 const cientsLogos = [
