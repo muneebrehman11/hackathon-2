@@ -60,7 +60,7 @@ export default function Pricing() {
                     <button className="w-28 h-10 bg-gray-300 hover:bg-blue-100 rounded-full text-black hover:text-blue-800 font-semibold">Save 25%</button>
                 </div>
                 <div className="flex justify-center">
-                    <Image src={img1} alt={'a'} />
+                    <Image src={"/assets/row (3).png"} alt={'a'} />
                 </div>
 
                 {/* Clients Section */}
